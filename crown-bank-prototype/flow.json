@@ -1,0 +1,18 @@
+[
+  {
+    "User": {
+      "_id": "ObjectId",
+      "accountNumber": "String",
+
+      "firstName": "String",
+      "middleName": "String",
+      "lastName": "String",
+      "birthDate": "Date",
+      
+      "accountType": "random set specific number for bank account type",
+      "I F S C code": "I F S C code of bank",
+      "verified": "true or false",
+      "kycVerified": "true or false"
+    }
+  }
+]
